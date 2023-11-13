@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Kiara Collins 👋
 
 I am a passionate and detail-oriented Business Analyst student with a keen interest in leveraging data-driven insights to inform strategic decision-making. Currently pursuing my studies at Udacity, I am committed to applying analytical and problem-solving skills to drive business success.
 
